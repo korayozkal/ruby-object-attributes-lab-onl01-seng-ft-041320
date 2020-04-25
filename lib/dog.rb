@@ -10,7 +10,7 @@ def name= (dogs_name)
  end  
  
 fido = Dog.new
-fido.name = "fido"
+fido.name = "Fido"
  
 puts fido.name
 
