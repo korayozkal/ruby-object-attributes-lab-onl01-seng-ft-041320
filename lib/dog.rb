@@ -7,8 +7,12 @@ def name=(dogs_name)
   def name
     @new_dogs_name
   end
+ end  
+  fido = Dog.new
+  fido.name= "Fido"
+  puts fido.name
   
-end
+
 
 
 
