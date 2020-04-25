@@ -18,16 +18,7 @@ def name= (dogs_name)
       
  end  
  
-fido = Dog.new
-fido.name = "Fido"
- 
-puts fido.name
 
-snoopy = Dog.new 
-snoopy.name = "snoopy"
-snoopy.breed = "Beagle"
-puts. snoopy.name
-puts. snoopy.breed
 
 
 
